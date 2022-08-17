@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "127987307044",
+    "project_id": "infotour-869cd",
+    "storage_bucket": "infotour-869cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127987307044:android:08dc6653b4a14b45e27eb1",
+        "android_client_info": {
+          "package_name": "com.bibary.tour_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127987307044-3mk9osk1jmrlanhtck1s727qr6a3fgse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq5udKzf7PsRXzlOyBWBYrEJZ-DyWzPek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127987307044-3mk9osk1jmrlanhtck1s727qr6a3fgse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127987307044-6refg5u2g1ndmm0lin7rq9kkorg9f3nf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
